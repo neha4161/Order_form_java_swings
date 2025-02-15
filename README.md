@@ -39,9 +39,6 @@ This is a Java Swing-based **GUI application** for ordering custom artwork. The 
 
 ![image](https://github.com/user-attachments/assets/a2d9fb35-1eb3-4804-8558-7879df812ff5)
 
-![image](https://github.com/user-attachments/assets/f86d8caf-b7e7-47ed-b069-c1612e1a153a)
-
-
 
 ## Technologies Used
 - **Java**
