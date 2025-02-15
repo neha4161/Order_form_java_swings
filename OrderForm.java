@@ -101,22 +101,22 @@ class MyFrame extends JFrame implements ActionListener{
 
         submit.addActionListener(this);
 
-        String imagePath1 = "C:\\Users\\Nehak\\Desktop\\IMG_20220216_013631_255 (1).jpg";
+        String imagePath1 = "image1.jpg";//Add your image path in place of image1.jpg. MAke sure to first adjust the dimentions of the image accordingly
         label6 = new JLabel(new ImageIcon(imagePath1));
         label6.setBounds(430,250,150,150);
         c.add(label6);
 
-        String imagePath2 = "C:\\Users\\Nehak\\Downloads\\20210530_152847.jpg";
+        String imagePath2 = "image2.jpg"; //Add your image path in place of image2.jpg. MAke sure to first adjust the dimentions of the image accordingly
         label6 = new JLabel(new ImageIcon(imagePath2));
         label6.setBounds(550,250,150,150);
         c.add(label6);
 
-        String imagePath3 = "C:\\Users\\Nehak\\Downloads\\20210530_152801.jpg";
+        String imagePath3 = "image3.jpg";//Add your image path in place of image3.jpg. MAke sure to first adjust the dimentions of the image accordingly
         label6 = new JLabel(new ImageIcon(imagePath3));
         label6.setBounds(670,250,150,150);
         c.add(label6);
 
-        String imagePath4 = "C:\\Users\\Nehak\\Downloads\\20210822_011300.jpg";
+        String imagePath4 = "image4.jpg";//Add your image path in place of image4.jpg. MAke sure to first adjust the dimentions of the image accordingly
         label6 = new JLabel(new ImageIcon(imagePath4));
         label6.setBounds(790,250,150,150);
         c.add(label6);
