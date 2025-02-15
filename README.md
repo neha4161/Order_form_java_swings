@@ -50,8 +50,3 @@ This is a Java Swing-based **GUI application** for ordering custom artwork. The 
 ### Prerequisites
 - Java Development Kit (JDK) installed
 - Any Java IDE (Eclipse, IntelliJ IDEA, or NetBeans) or a text editor with a terminal
-
-### Steps to Run
-1. Clone this repository:
-   ```sh
-   git clone https://github.com/neha4161/World-of-SketchArt.git
